@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\",
+  "WorkspaceRootPath": "C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|c:\\my_coding_projects\\learningcpp_csharp\\studentloancalculatorcsharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|c:\\my_coding_projects\\cpp_csharp_projects\\studentloancalculatorcsharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BE48F5C-FD11-4DA6-83F5-06B364A231B1}|StudentLoanCalculatorCsharp.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,10 +40,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\Form3.cs",
+              "DocumentMoniker": "C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\Form3.cs",
               "RelativeDocumentMoniker": "Form3.cs",
               "ToolTip": "C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\Form3.cs [Design]",
-              "RelativeToolTip": "Form3.cs [Design]",
+              "RelativeToolTip": "..\\..\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-03T18:00:10.209Z"
             },
@@ -51,9 +51,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form3.Designer.cs",
-              "DocumentMoniker": "C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\Form3.Designer.cs",
+              "DocumentMoniker": "C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\Form3.Designer.cs",
               "RelativeDocumentMoniker": "Form3.Designer.cs",
-              "ToolTip": "C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\Form3.Designer.cs",
+              "ToolTip": "C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\Form3.Designer.cs",
               "RelativeToolTip": "Form3.Designer.cs",
               "ViewState": "AQIAAHABAAAAAAAAAAAAAH0BAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,9 +63,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\Form2.cs",
+              "DocumentMoniker": "C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\Form2.cs",
+              "ToolTip": "C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwBAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,10 +76,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\Form2.cs",
+              "DocumentMoniker": "C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\Form2.cs [Design]",
-              "RelativeToolTip": "Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T15:21:41.229Z"
             },
@@ -87,9 +87,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\Form2.Designer.cs",
+              "DocumentMoniker": "C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
-              "ToolTip": "C:\\My_Coding_Projects\\LearningCPP_Csharp\\StudentLoanCalculatorCsharp\\Form2.Designer.cs",
+              "ToolTip": "C:\\My_Coding_Projects\\CPP_Csharp_Projects\\StudentLoanCalculatorCsharp\\Form2.Designer.cs",
               "RelativeToolTip": "Form2.Designer.cs",
               "ViewState": "AQIAABwBAAAAAAAAAAAAACcBAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
